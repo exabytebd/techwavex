@@ -72,7 +72,7 @@ function HeroExperience() {
           <motion.h1 variants={fade} transition={{ duration: 0.7 }} className="text-balance max-w-5xl text-5xl font-black leading-[0.95] tracking-tight sm:text-6xl lg:text-7xl">
             Build a future-ready <span className="gradient-text">digital business</span> and career engine.
           </motion.h1>
-          <motion.p variants={fade} transition={{ duration: 0.65 }} className="mt-7 max-w-2xl text-lg leading-8 text-slate-650 text-slate-600 dark:text-slate-300">
+          <motion.p variants={fade} transition={{ duration: 0.65 }} className="mt-7 max-w-2xl text-lg leading-8 text-slate-700 dark:text-slate-300">
             TechWave-X combines ecommerce operations, custom software, AI automation, digital growth, and practical training into one polished execution partner.
           </motion.p>
           <motion.div variants={fade} transition={{ duration: 0.65 }} className="mt-9 flex flex-col gap-3 sm:flex-row">
